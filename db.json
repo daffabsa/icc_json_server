@@ -1,0 +1,25 @@
+{
+    "billing_efficiency_now": {
+        "updated_at": "2022-04-19T07:35:57.556Z",
+        "percentage": 73,
+        "id": "1"      
+    },
+    "billing_efficiency": {
+        "updated_at": "2022-04-19T07:35:57.556Z",
+        "percentage": 73,
+        "id": "1"      
+    },
+    "score_roe": {
+        "roe_score": 2,
+        "profit_after_tax": 59,
+        "profit_after_tax_accumulatives": 71,
+        "equity": 32,
+        "equity_accumulatives": 81,
+        "max_limit": 66,
+        "max_limit_percentage": 55,
+        "roe_value": 13,
+        "roe_value_percentage": 92,
+        "updated_at": "2022-04-19T17:17:46.412Z",
+        "id": "1"
+    }
+}
