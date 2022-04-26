@@ -23,7 +23,7 @@
         "id": "1"
     },
     "announcements": [
-        { "count": 2, "message": "Sambungan Baru", "color": "green" },
+        { "count": 2, "message": "Sambungan Baru Sekali", "color": "green" },
         { "count": 1, "message": "Pengaduan Masuk", "color": "red" },
         { "count": 1, "message": "Sambungan Baru", "color": "green" },
         { "count": 3, "message": "Pengaduan Masuk", "color": "red" },
