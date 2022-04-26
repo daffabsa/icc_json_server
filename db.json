@@ -21,5 +21,17 @@
         "roe_value_percentage": 92,
         "updated_at": "2022-04-19T17:17:46.412Z",
         "id": "1"
-    }
+    },
+    "announcements": [
+        { "count": 2, "message": "Sambungan Baru", "color": "green" },
+        { "count": 1, "message": "Pengaduan Masuk", "color": "red" },
+        { "count": 1, "message": "Sambungan Baru", "color": "green" },
+        { "count": 3, "message": "Pengaduan Masuk", "color": "red" },
+        { "count": 1, "message": "Pipa Bocor", "color": "red" },
+        { "count": 2, "message": "Sambungan Baru", "color": "green" },
+        { "count": 1, "message": "Pengaduan Masuk", "color": "red" },
+        { "count": 1, "message": "Sambungan Baru", "color": "green" },
+        { "count": 3, "message": "Pengaduan Masuk", "color": "red" },
+        { "count": 1, "message": "Pipa Bocor", "color": "red" }
+    ]
 }
